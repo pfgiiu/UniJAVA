@@ -1,14 +1,11 @@
 public class Main {
     public static void main(String[] args) {
+        Calculo calc = new Calculo();
 
-        Calculadora calculadora = new Calculadora();
+        double areaTriangulo = calc.areaTriangulo(5, 10);
+        double areaQuadrado = calc.areaQuadrado(5);
 
-
-        int resultadoSoma = calculadora.somar(5, 3);
-        int resultadoSubtracao = calculadora.subtrair(10, 4);
-
-  
-        System.out.println("Resultado da Soma: " + resultadoSoma);
-        System.out.println("Resultado da Subtração: " + resultadoSubtracao);        
+        System.out.println("Área do triângulo: " + areaTriangulo);
+        System.out.println("Área do quadrado: " + areaQuadrado);
     }
 }
