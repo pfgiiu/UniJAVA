@@ -1,10 +1,15 @@
 Estrutura das pastas do meu projeto
 
 **src/
+
 |-- br/
+
 |   -- com/
+
 |       -- calculator/
+
 |           |-- MinhaClasse.java
+
 |           |-- Main.java**
 
 
