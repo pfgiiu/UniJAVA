@@ -8,9 +8,9 @@ src/
 
 |       -- calculator/
 
-          |-- MinhaClasse.java
+|           -- MinhaClasse.java
 
-          |-- Main.java
+|            -- Main.java
 
 
 
