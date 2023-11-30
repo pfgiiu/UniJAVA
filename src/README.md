@@ -1,6 +1,6 @@
 Estrutura das pastas do meu projeto
 
-**src/
+src/
 
 |-- br/
 
@@ -8,9 +8,9 @@ Estrutura das pastas do meu projeto
 
 |       -- calculator/
 
-|           |-- MinhaClasse.java
+          |-- MinhaClasse.java
 
-|           |-- Main.java**
+          |-- Main.java
 
 
 
